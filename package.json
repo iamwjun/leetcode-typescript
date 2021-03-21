@@ -1,0 +1,34 @@
+{
+  "name": "leetcode-typescript",
+  "version": "1.0.0",
+  "description": "leetcode",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplash/leetcode-typescript.git"
+  },
+  "keywords": [
+    "leetcode",
+    "typescript"
+  ],
+  "author": "iamk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iplash/leetcode-typescript/issues"
+  },
+  "homepage": "https://github.com/iplash/leetcode-typescript#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
