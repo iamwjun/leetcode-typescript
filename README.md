@@ -1,6 +1,6 @@
 #### leetcode题解>TypeScript
 
-##### [#剑指Offer](./剑指Offer/README.md) 
+##### [#剑指Offer2](./剑指Offer/README.md) 
 
 ##### [#80. 删除有序数组中的重复项 II](./2021-04/80.md) 
 ##### [#88. 合并两个有序数组](./2021-04/88.md) 
